@@ -1,0 +1,6 @@
+{
+  "name": "Bean & Leaf Café",
+  "description": "A cozy neighborhood café serving artisanal coffee, fresh breakfast, lunch, and homemade pastries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
